@@ -40,7 +40,7 @@ SEARCH_QUERIES = [
     "Senior Software Engineer remote",
     "Senior Full Stack Developer remote",
     ".NET C# Angular remote",
-     "Senior Software Engineer Relocation Visa Sponsorship",
+    "Senior Software Engineer Relocation Visa Sponsorship",
     "Senior Full Stack Developer Relocation Visa Sponsorship",
     ".NET C# Angular Relocation Visa Sponsorship",
 ]
@@ -51,11 +51,8 @@ BLACKLIST_KEYWORDS = [
     "must reside in us",
     "must be located in the us",
     "must be based in",
-    "senior",
     "director",
-    "agency",
-    "full stack",
-    "fullstack",
+    "agency"
 ]
 
 # ══════════════════════════════════════════════════════════════════════════════
