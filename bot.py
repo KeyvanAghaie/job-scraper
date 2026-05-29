@@ -37,11 +37,12 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "Junior SEO remote",
-    "Technical SEO remote",
-    "SEO Content Editor remote",
-    "SEO Python remote",
-    "WordPress SEO Specialist remote",
+    "Senior Software Engineer remote",
+    "Senior Full Stack Developer remote",
+    ".NET C# Angular remote",
+     "Senior Software Engineer Relocation Visa Sponsorship",
+    "Senior Full Stack Developer Relocation Visa Sponsorship",
+    ".NET C# Angular Relocation Visa Sponsorship",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
